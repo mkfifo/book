@@ -283,6 +283,7 @@ Versioning
 wasn
 WeatherForecast
 whitespace
+wildcard
 wildcards
 workspace
 workspaces
